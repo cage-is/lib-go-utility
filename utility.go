@@ -1,7 +1,7 @@
 package Utility
 
 import (
-	"github.com/AlecAivazis/survey"
+	"github.com/AlecAivazis/survey/v2"
 	"os/exec"
 	"strings"
 )
